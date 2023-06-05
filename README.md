@@ -1,5 +1,5 @@
 # re-landing-page
-Redoing the project to keep my flexbox skills in check and fresh.
+Redoing the project to keep my flexbox skills in check and fresh.Also learned to commit properly.
 
 First picture used here was from wallpaperflare.com. Artist unknown.
 
@@ -10,4 +10,5 @@ cartoon mole- krtek 1956
 knight- art by syanart
 
 meat boy- art by Donnie
+
 knight and meat boy can be found on dispact website.
